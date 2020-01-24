@@ -1,0 +1,11 @@
+RAHUL CHAMARTHI 
+HW4 - CS373 (K-MEANS) 
+
+* IMPORTANT NOTES:  
+	* runtime is a tad on the slow side, its not too slow though
+		* 4 1 option combo takes 20 seconds  
+	* runs according to the standard form described in the handout 
+
+* NOTES IN ORDER TO RUN PROGRAM: 
+	* written using python 3.7 
+	* PLEASE PLACE THE YELP DATASET INTO SAME DIRECTORY AS PYTHON FILE BEFORE RUNNING 	
